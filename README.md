@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhulse72 (Brandon Hulse)
-I'm currently a Junior student at the University of Notre Dame studying computer science
+I'm currently a Senior student at the University of Notre Dame studying computer science
 - 📫 How to reach me: bhulse@nd.edu
 
 <!---
